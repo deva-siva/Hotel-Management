@@ -49,4 +49,4 @@ reservations.txt – Auto-generated file to store reservations persistently.
 OUTPUT: 
 
 
-<img width="571" height="695" alt="Reservation" src="https://github.com/user-attachments/assets/f5a17e49-51ac-49aa-95ad-40b4d0f24038" />
+<img width="617" height="474" alt="Screenshot 2025-08-28 220706" src="https://github.com/user-attachments/assets/cdabdb0f-7a9b-4aa8-a4a6-d5b09ff7e3fe" />
